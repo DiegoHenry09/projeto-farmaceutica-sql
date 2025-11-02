@@ -6,7 +6,7 @@ O objetivo foi migrar de uma análise simples baseada em arquivos Excel para um 
 
 ## A Evolução: Do Excel ao SQL
 
-* **[Projeto 1.0 (Análise com Excel)](https://github.com/DiegoHenry09/analise-dados-farmaceutica)**
+* **[Projeto 1.0 (Análise com Excel)](https://github.com/DiegoHenry09/analise-dados-farmaceutica.)**
     Nesta primeira versão, todo o processo foi feito em Pandas, lendo os dados diretamente de um arquivo `.xlsx`. Embora tenha sido um ótimo aprendizado, este método possui limitações de escalabilidade e não reflete um ambiente corporativo real.
 
 * **Projeto 2.0 (Este Repositório)**
