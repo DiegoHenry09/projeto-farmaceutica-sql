@@ -1,0 +1,11 @@
+# Arquivos de segredo (nunca enviar!)
+.env
+
+# Pastas e arquivos de cache do Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Arquivos de dados locais (se houver)
+*.csv
+*.xlsx
+*.db
