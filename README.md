@@ -31,7 +31,7 @@ Este repositório contém 3 artefatos principais que demonstram o fluxo de traba
 ### 1. Modelagem do Banco de Dados (SQL)
 Antes de qualquer análise, projetei um schema relacional com 5 tabelas (`clientes`, `produtos`, `representantes`, `vendas`, `pagamentos`) para organizar os dados de forma eficiente.
 
-**Arquivo de referência:** [`schema.sql`]([./schema.sql](https://github.com/DiegoHenry09/projeto-farmaceutica-sql/blob/main/CREATE%20TABLE%20clientes%20(.sql))
+**Arquivo de referência:** [`schema.sql`](./schema.sql)
 
 ### 2. ETL (Extract, Transform, Load)
 Criei um script em Python que:
